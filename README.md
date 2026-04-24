@@ -1,5 +1,15 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 Sobre mi:
+🔭 En qué estoy trabajando: Mi primera aplicación Full Stack para [puedes poner aquí de qué tratará tu app, ej: "gestión de inventarios"].
+
+👯 Busco colaborar en: Proyectos de código abierto en Java o aplicaciones web que busquen manos para crecer.
+
+🤝 Busco ayuda con: Arquitectura de software, despliegue en la nube y mejores prácticas de DevOps.
+
+🌱 Aprendiendo actualmente: Profundizando en Spring Boot, Next.js y el uso de IA para optimizar el desarrollo de software.
+
+💬 Pregúntame sobre: Java, lógica de programación y cómo estructurar sistemas desde los cimientos.
+
+⚡ Dato curioso: Me apasiona entender el "mecanismo interno" de todo lo que me rodea, desde un motor hasta el código de un framework.
 
 
 ## 🌐 Socials:
