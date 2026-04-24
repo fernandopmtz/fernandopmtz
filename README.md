@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-🔭 En qué estoy trabajando: Mi primera aplicación Full Stack para [puedes poner aquí de qué tratará tu app, ej: "gestión de inventarios"].
+🔭 En qué estoy trabajando: Mi primera aplicación Full Stack para gestion de pago virtual con Qr 
 
 👯 Busco colaborar en: Proyectos de código abierto en Java o aplicaciones web que busquen manos para crecer.
 
